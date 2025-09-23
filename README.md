@@ -1,4 +1,4 @@
-![logo](https://github.com/Surendra-Kumar9450/Surendra-Kumar9450/blob/main/WhatsApp%20Image%202025-09-22%20at%2022.34.55_fe4a577f.jpg)
+![logo](https://github.com/Surendra-Kumar9450/Surendra-Kumar9450/blob/main/Githb%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Surendra Kumar</h1>
 <h3 align="center">A final-year Computer science student passionate about Web Development , Problem Solving, and Open source</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
